@@ -31,3 +31,4 @@ This app ensures that users have their ToDo at their fingertips.
 
 ## API
 [Localhost](http://localhost:5000/todos/)
+* Set up a local server and use GET, POST, and DELETE /todos APIs to fetch, add, and delete tasks.
